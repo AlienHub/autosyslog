@@ -64,7 +64,6 @@ CHECK_NETWORK(){
 }
 
 
-# 推送EDR安装脚本并执行
 # 远程执行命令
 SSH(){
         ip=$1
