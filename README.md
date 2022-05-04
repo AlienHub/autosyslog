@@ -27,3 +27,5 @@ clientiplist.txt文本要求:
 ## 使用案例
 密码登录：`./socsyslog.sh clientiplist.txt 192.168.1.243 0`
 
+## 脚本不在更新
+
