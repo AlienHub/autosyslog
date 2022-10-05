@@ -30,3 +30,4 @@ clientiplist.txt文本要求:
 ## 脚本不在更新
 > 2022.5.4
 
+> 通过 dillinger.io 更新。
